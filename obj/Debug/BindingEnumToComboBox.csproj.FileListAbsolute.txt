@@ -1,0 +1,12 @@
+C:\GitHub\BindingEnumToDropDownList\bin\Debug\BindingEnumToDropDownList.exe.config
+C:\GitHub\BindingEnumToDropDownList\obj\Debug\BindingEnumToComboBox.csprojResolveAssemblyReference.cache
+C:\GitHub\BindingEnumToDropDownList\obj\Debug\BindingEnumToDropDownList.Form.resources
+C:\GitHub\BindingEnumToDropDownList\obj\Debug\BindingEnumToDropDownList.Properties.Resources.resources
+C:\GitHub\BindingEnumToDropDownList\obj\Debug\BindingEnumToComboBox.csproj.GenerateResource.Cache
+C:\GitHub\BindingEnumToDropDownList\bin\Debug\BindingEnumToDropDownList.exe
+C:\GitHub\BindingEnumToDropDownList\bin\Debug\BindingEnumToDropDownList.pdb
+C:\GitHub\BindingEnumToDropDownList\obj\Debug\BindingEnumToDropDownList.exe
+C:\GitHub\BindingEnumToDropDownList\obj\Debug\BindingEnumToDropDownList.pdb
+C:\GitHub\BindingEnumToComboBox\bin\Debug\BindingEnumToDropDownList.exe.config
+C:\GitHub\BindingEnumToComboBox\obj\Debug\BindingEnumToDropDownList.exe
+C:\GitHub\BindingEnumToComboBox\obj\Debug\BindingEnumToDropDownList.pdb
